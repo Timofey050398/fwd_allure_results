@@ -1,8 +1,0 @@
-{
-    "success": false,
-    "error": "error.isEmail",
-    "message": [
-        "error.isEmail|email",
-        "error.isNotEmpty|type"
-    ]
-}
